@@ -1,0 +1,14 @@
+.header {
+  height: 150px;
+  background-color: #F2F0EB;
+  padding: 0 70px 0 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+}

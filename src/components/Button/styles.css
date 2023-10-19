@@ -1,0 +1,22 @@
+.btn {
+  border: none;
+  height: 45px;
+  padding: 15px;
+  font-size: 12px;
+  background-color: #000;
+  color: #F2F0EB;
+  cursor: pointer;
+}
+
+.filled {
+  background-color: #000;
+  color: #F2F0EB;
+  font-weight: 700;
+}
+
+.outline {
+  border: 1px solid #000;
+  background-color: #F2F0EB;
+  color: #000;
+  font-weight: 700;
+}
