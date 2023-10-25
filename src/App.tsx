@@ -1,9 +1,9 @@
-import { Home } from "./pages/Home"
 import './reset.css'
+import { Routes } from "./routes"
 
 function App() {
   return (
-    <Home />
+    <Routes />
   )
 }
 
