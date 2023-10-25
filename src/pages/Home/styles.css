@@ -1,0 +1,21 @@
+.body {
+  height: calc(100vh - 250px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 150px 70px;
+  background-color: #F2F0EB;
+}
+
+.body p {
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 100px;
+  width: 640px;
+  height: 330px;
+}
+
+.body p strong {
+  background-color: #0D0D0D;
+  color: #F2F0EB;
+}

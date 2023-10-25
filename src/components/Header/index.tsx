@@ -1,5 +1,5 @@
 import Logo from "../../icons/Logo";
-import { Button } from "../Button/Index";
+import { Button } from "../Button";
 import './styles.css'
 
 function Header() {
@@ -13,7 +13,7 @@ function Header() {
         </Button>
 
         <Button type="filled">
-          Acesse
+          Acesse!
         </Button>
       </div>
     </div>

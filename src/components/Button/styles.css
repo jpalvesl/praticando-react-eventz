@@ -3,20 +3,20 @@
   height: 45px;
   padding: 15px;
   font-size: 12px;
-  background-color: #000;
+  background-color: #0D0D0D;
   color: #F2F0EB;
   cursor: pointer;
 }
 
 .filled {
-  background-color: #000;
+  background-color: #0D0D0D;
   color: #F2F0EB;
   font-weight: 700;
 }
 
 .outline {
-  border: 1px solid #000;
+  border: 1px solid #0D0D0D;
   background-color: #F2F0EB;
-  color: #000;
+  color: #0D0D0D;
   font-weight: 700;
 }
